@@ -121,11 +121,15 @@
         "oled-i2c-bus": "^1.0.12",
         "onoff": "^6.0.3",
         "promise-fn-retry": "^1.0.10",
-        "promise-semaphore": "^0.2.8"
+        "promise-semaphore": "^0.2.8",
+        "rpi-gpio": "^2.1.7",
+        "rpio": "^2.4.2"
     },
     "devDependencies": {
         "@msamblanet/node-project-template": "^0.7.0",
-        "@types/i2c-bus": "^5.1.0"
+        "@types/i2c-bus": "^5.1.0",
+        "@types/rpi-gpio": "^2.1.1",
+        "@types/rpio": "^2.4.2"
     },
     "engines": {
         "node": ">=16.7.0"
