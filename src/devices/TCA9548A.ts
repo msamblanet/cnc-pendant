@@ -2,7 +2,7 @@
 import assert from 'node:assert';
 import retry from 'promise-fn-retry';
 import { PromisifiedBus } from 'i2c-bus';
-import { Lock } from './Lock';
+import { Lock } from '../util/Lock.js';
 
 export interface Options {
   bus: PromisifiedBus;
