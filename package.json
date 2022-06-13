@@ -124,7 +124,7 @@
         "promise-semaphore": "^0.2.8"
     },
     "devDependencies": {
-        "@msamblanet/node-project-template": "^0.7.0",
+        "@msamblanet/node-project-template": "^0.7.1",
         "@types/i2c-bus": "^5.1.0"
     },
     "engines": {
